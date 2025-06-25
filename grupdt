@@ -1,15 +1,18 @@
-<latestVersion>3.24</latestVersion>
-    <latestVersionCode>102</latestVersionCode>
+<latestVersion>3.30</latestVersion>
+    <latestVersionCode>104</latestVersionCode>
     <url>https://dl.dropboxusercontent.com/scl/fi/2fks94qo2ajr2r1ioci0z/GRTVFire.apk?rlkey=61qxcbkpaxvv7omhaizledww9&dl=1</url>
     <url2>https://dl.dropboxusercontent.com/scl/fi/hteaeueqptcwcr4t8pb2x/GRTVFire.apk?rlkey=ijxppic0v6wmdzwnywh8hzwrp&dl=1</url2>
     <urlext>https://www.mediafire.com/file/xo009voiglgoe3r/GRTVFire.apk/file</urlext>
   <releaseNotes>
-Βασικές αλλαγές στο 3.24:
- 1) Αναβάθμιση internal player
- 2) Αλλαγή του cache του internal player (μεγαλύτερο από'τι πριν)
- 3) Αλλαγές στον ενσωματωμένο internet browser, καλύτερη πλοήγηση στις επίσημες ιστοσελίδες
- 4) Δυνατότητα αναπαραγωγής των βίντεο/καναλιών του ertflix στον internal player
- 5) Άλλες αλλαγές και βελτιώσεις.
+Βασικές αλλαγές:
+ 1) ΝΕΟΣ αυτόματος player στην ζωντανή τηλεόραση για όσους χρησιμοποιούν την επιλογή "ΣΥΓΧΩΝΕΨΗ ΚΑΝΑΛΙΩΝ" (θα ζητήσει η εφαρμογή ξανά αν θέλετε να αλλάξετε επιλογή). Δεν θα χρειάζεται να επιλέγετε ροή καναλιού, αυτόματα ελέγχει αθόρυβα (ενεργοποίηση αθόρυβης λειτουργίας) και επιλέγει την ροή που δουλεύει για εσάς (μπορείτε να επιλέξετε χειροκίνητα ροή πατώντας το κουμπί streams πάνω δεξιά). Μπορείτε να απενεργοποιήσετε την αυτόματα επιλογή (να είναι όπως παλιά) από τις ρυθμίσεις.
+ 2) Μπορείτε να αλλάξετε σε Συγχώνευση/μη Συγχώνευση καναλιών κατευθείαν από τις ρυθμίσεις όταν είσαστε στην λίστα καναλιών.
+ 3) ΝΕΟΣ αυτόματος player για τις σειρές, πλέον σε κάθε επεισόδιο θα ψάχνει για ροή που δουλεύει για εσάς. Τα μπορείτε χειροκίνητα να αλλάξετε ροή πατώντας το κουμπί streams.
+ 4) Αναβάθμιση internal player
+ 5) Αλλαγή του cache του internal player (μεγαλύτερο από 'τι πριν)
+ 6) Διάφορες διορθώσεις στο tvstyle για καλύτερη εμπειρία θέασης.
+ 7) Αυτόματη φόρτωση και πλήρης οθόνη στο αρχείο Ρικ Κύπρου.
+ 8) Άλλες αλλαγές και βελτιώσεις.
     </releaseNotes>
 
 

@@ -1,8 +1,16 @@
-<latestVersion>3.41</latestVersion>
-    <latestVersionCode>114</latestVersionCode>
+<latestVersion>3.50</latestVersion>
+    <latestVersionCode>115</latestVersionCode>
     <url>https://dl.dropboxusercontent.com/scl/fi/2fks94qo2ajr2r1ioci0z/GRTVFire.apk?rlkey=61qxcbkpaxvv7omhaizledww9&dl=1</url>
     <url2>https://dl.dropboxusercontent.com/scl/fi/hteaeueqptcwcr4t8pb2x/GRTVFIRE.apk?rlkey=ijxppic0v6wmdzwnywh8hzwrp&st=u1wu96yw&dl=1</url2>
     <urlext>https://www.mediafire.com/file/xo009voiglgoe3r/GRTVFire.apk/file</urlext>
   <releaseNotes>
-Αρκετές αλλαγές και διορθώσεις σε αυτή την έκδοση.
+1. Αλλαγή της οθόνης των ρυθμίσεων για καλύτερη εμπειρία
+2. Στις σειρές θα εμφανίζετε το είδος τις κάθε σειράς στο κάτω μέρος του εικονιδίου.
+3. Νέο κουμπί στο πάνω μέρος στις σειρές όπου σας επιτρέπει να εμφανίζονται μόνο σειρές τις συγκεκριμένης κατηγορίας.
+4. Διόρθωση του ενσωματωμένου youtube Player 2, αλλαγές και στον youtube Player 1.
+5. Διορθώσεις στον αυτόματο ενσωματωμένο player. 
+6. Η απόκρυψη μιας κατηγορίας καναλιών θα αποκρύβει και τα κανάλια από την λίστα "όλα τα κανάλια"
+7. Διόρθωση ιστορικού στις σειρές.
+8. Άλλες αλλαγές και διορθώσεις.
     </releaseNotes>
+
